@@ -10,4 +10,18 @@
  *  Converting Data Types
  *  Switch case
 
- ![](./Assets/Screenshot%202023-07-20%20at%2022.28.37.png)
+ 
+ ![](./Assets/asset/Screenshot%202023-07-20%20at%2022.28.37.png)
+
+## New project -->
+
+###  Overview
+
+ Have used :
+
+ * console input/output
+ * converting Data types -> decimal
+
+![](./Assets/Screenshot%202023-07-20%20at%2022.42.54.png)
+
+
