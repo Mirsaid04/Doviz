@@ -1,6 +1,6 @@
 ## Doviz
 
- This project helps to change USD to gold && gold to USD
+ This project helps to change easily **USD to Gold** && **Gold to USD** 
 
  ## Overview
 
@@ -8,20 +8,16 @@
 
  *  Console input/output
  *  Converting Data Types
- *  Switch case
+ *  `Switch` statement
 
+ ## Demo
+ Gold to Dollar -> 
+
+ ![](./Assets/Gold%20gif.gif)
+
+ Dollar to Gold ->
  
- ![](./Assets/asset/Screenshot%202023-07-20%20at%2022.28.37.png)
+ ![](./Assets/dollar%20gi.gif)
 
-## New project -->
-
-###  Overview
-
- Have used :
-
- * console input/output
- * converting Data types -> decimal
-
-![](./Assets/Screenshot%202023-07-20%20at%2022.42.54.png)
 
 
