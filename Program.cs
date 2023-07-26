@@ -22,7 +22,7 @@
                     Console.WriteLine("How much do you have");
                     decimal dollorOfyou= Convert.ToDecimal(Console.ReadLine());
                     Console.WriteLine("\nConverting to gold...\n");
-                    Console.WriteLine($"Your dollar is {dollorOfyou/goldvalue1ginDollar}gram gold\n");
+                    Console.WriteLine($"Your dollar is {dollorOfyou/goldvalue1ginDollar}gram Gold\n");
                     break;
                 default :
                     Console.WriteLine("Sorry , you entered invalid input\nTry again later");
