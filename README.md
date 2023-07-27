@@ -29,11 +29,11 @@
 
  V1.0
 
- This [version/1.0]() can calculate basic part of exchanging , and also it was only one time calculation , so I uptaded it to non stop application , let's check...
+ This [version/1.0](https://github.com/Mirsaid04/Doviz/tree/Releases/v1.0) can calculate basic part of exchanging , and also it was only one time calculation , so I uptaded it to non stop application , let's check...
 
  v2.0
 
- This [versionv/2.0]() is final project to calculate the exchanging Gold or Dollar and also this framework works without stopping , you can use whenever you want
+ This [versionv/2.0](https://github.com/Mirsaid04/Doviz/tree/Releases/v2.0) is final project to calculate the exchanging Gold or Dollar and also this framework works without stopping , you can use whenever you want
 
 
 
