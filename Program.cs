@@ -4,6 +4,7 @@
     {
         static void Main()
         {
+            try{
             string yesOrno="";
             do{
             const decimal goldvalue1ginDollar=1983; //USD $
@@ -33,6 +34,13 @@
             Console.Write("Do you want to continue [y/n]: "); 
             yesOrno=Console.ReadLine()!; 
             }while(yesOrno=="y");
+            }
+             catch(FormatException FormatException)
+            {
+                Console.WriteLine("Oops,We could not convert your input value.");
+                System.Console.WriteLine("Looks like the value you provided is not integer");
+            };
+
         }
     }
 }
