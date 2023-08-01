@@ -35,12 +35,19 @@
             yesOrno=Console.ReadLine()!; 
             }while(yesOrno=="y");
             }
-             catch(FormatException FormatException)
+            catch(FormatException FormatException)
             {
                 Console.WriteLine("Oops,We could not convert your input value.");
-                System.Console.WriteLine("Looks like the value you provided is not integer");
-            };
-
+                Console.WriteLine("Looks like the value you provided is not integer");
+            }
+            catch(OverflowException OverflowException)
+            {
+                Console.WriteLine("Value you provided was either too large or too small. ");
+            }
+            catch(Exception exception)
+            {
+                Console.WriteLine("Opps,something went wrong , contact support");
+            }
         }
     }
 }
