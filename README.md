@@ -33,11 +33,6 @@
 
  v2.0
 
- This [versionv/2.0](https://github.com/Mirsaid04/Doviz/tree/Releases/v2.0) is final project to calculate the exchanging Gold or Dollar and also this framework works without stopping , you can use whenever you want
+ This [versionv/2.0](://github.com/Mirsaid04/Doviz/tree/Releases/vhttps2.0) is project that can calculate the exchanging Gold or Dollar,  also this framework works without stopping , you can use whenever you want
 
-
-
-
-
-
-
+ v3.0 [version/3.0](://github.com/Mirsaid04/Doviz/tree/Releases/vhttps3.0) is the ready project which has been used Methods
