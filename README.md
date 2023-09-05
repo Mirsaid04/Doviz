@@ -13,6 +13,7 @@
  ![](./Assets/switch)
 
 ## Result:
+
  Gold to Dollar -> 
 
  ![](./Assets/Gold%20gif.gif)
