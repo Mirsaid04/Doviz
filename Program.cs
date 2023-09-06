@@ -12,9 +12,9 @@ namespace doviz
                 Information information = new Information();
             do{
                 information.ShowMenu();
-                int choosedNumber= int.Parse(Console.ReadLine()!);
+                int chooseNumber= int.Parse(Console.ReadLine()!);
             
-            switch(choosedNumber)
+            switch(chooseNumber)
             {
                 case 1: 
                     calculator.GoldToDollorConverter();
